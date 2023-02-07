@@ -27,12 +27,12 @@ Or connect a MIDI keyboard and reload the page!
 
 ### OSCILLATORS
 
-|   |   |  |  |
-|---|---|---|---|
-|  <img src='res/osc.png'  margin='10%' width='90%' >  | Synth Engine: Shift+Click to remove, click "+" to add |   <img src='res/FM.png'  height='100vw' padding='5%'> | Synth Engine Selector   | 
-|    <img src='res/wave.png'  > |  Waveform Selector (change clicking)  |    <img src='res/ModSlider.png'  > |   Left Slider: Noise Volume | 
-|  <img src='res/VolSlider.png'  > |  Right Slider: Oscillator Volume  |   <img src='res/Osc Routes.png'  margin='10%' width='90%'> |  Synth Routing: Select filter chains clicking on the dots (more chains can be selected for each Synth Engine)  | 
-| <img src='res/Pitch.png'  margin='10%' width='90%'>|  Oscillator Tuning |
+|                                                     |   |  |  |
+|-----------------------------------------------------|---|---|---|
+| <img src='res/osc.png'  margin='10%' width='90%' >  | Synth Engine: Shift+Click to remove, click "+" to add |   <img src='res/FM.png'  height='100vw' padding='5%'> | Synth Engine Selector   | 
+| <img src='res/wave.png'  >                          |  Waveform Selector (change clicking)  |    <img src='res/ModSlider.png'  > |   Left Slider: Noise Volume | 
+| <img src='res/VolSlider.png'  >                     |  Right Slider: Oscillator Volume  |   <img src='res/Osc Routes.png'  margin='10%' width='90%'> |  Synth Routing: Select filter chains clicking on the dots (more chains can be selected for each Synth Engine)  | 
+| <img src='res/pitch.png'  margin='10%' width='90%'> |  Oscillator Tuning |
 
   
 <br>
@@ -40,10 +40,10 @@ Or connect a MIDI keyboard and reload the page!
 ### FILTERS
 Three parallel Filter Chains (Horizontal)
 
-|   |   |  |  |
-|---|---|---|---|
-| <img src='res/Filters.png'  padding='5%' >|  Low Pass, Band and High Pass filters in serie | <img src='res/FilterCutoff.png'  >| Drag Horizonatally to change frequency, vertically to change amount and resonance |  
-| <img src='res/Resonance.png'  >|  Resonance/amount rapresented by glow around each filter |  <img src='res/FIlter Routes.png'  > |   Filter Routing: Select Fx Chain by clicking on the dots (more chains can be selected for each Filter Chain) |
+|   |   |                                     |  |
+|---|---|-------------------------------------|---|
+| <img src='res/Filters.png'  padding='5%' >|  Low Pass, Band and High Pass filters in serie | <img src='res/FilterCutoff.png'  >  | Drag Horizonatally to change frequency, vertically to change amount and resonance |  
+| <img src='res/Resonance.png'  >|  Resonance/amount rapresented by glow around each filter | <img src='res/Filter Routes.png'  > |   Filter Routing: Select Fx Chain by clicking on the dots (more chains can be selected for each Filter Chain) |
 
   
 <br>
