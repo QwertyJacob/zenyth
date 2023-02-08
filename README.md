@@ -13,7 +13,9 @@ It features infinite Synth Engines (of 4 different types), Noise generators, 3 F
   - Locallly: Clone git repo and run the following command in the project terminal:
   1. `npm install`
   2. `npm update`
-  3. `npm run build` or `npm run serve` respectively for distribution or developement builds
+  3. `npm run serve` to run development build
+  OR
+  3. `npm run build`, `npm install -g serve`, `serve -s dist` to run release build
 
 <br>
 
