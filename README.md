@@ -70,7 +70,7 @@ One main envelope, three assignable envelopes, two assignable lfos
 
 |   |                                                          |   |                                                                                                         |
 |---|----------------------------------------------------------|---|---------------------------------------------------------------------------------------------------------|
- | <img src='res/Drag.png'  > | Thunder icons are draggable                              | <img src='res/Drop.png' height='60%' > | Drop the thunder icon on: Synth Volume, Noise Volume, Synth Pitch or Filter Frequency to modulate the parameters |
+ | <img src='res/Drag.png'  > | Thunder icons are draggable | <img src='res/Drop.png' > | Drop the thunder icon on: Synth Volume, Noise Volume, Synth Pitch or Filter Frequency to modulate the parameters |
 |<img src='res/ModAmount.png'  > | Change modulation amount dragging the circles vertically | <img src='res/Id.png' > | The dot color and number indicates the modulator signal, Shift+Click on the dot to unlink the modulator |
 | <img src='res/VolButton.png'  > | Click mod icons to select the modulator shown            |
  
