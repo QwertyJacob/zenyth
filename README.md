@@ -9,7 +9,7 @@ It features infinite Synth Engines (of 4 different types), Noise generators, 3 F
 <br>
 
 # How to use it
-  - Online Version [here](https://eliapirrello.github.io/zenyth/)
+  - Online Version [here](https://eliapirrello.github.io/zenyth/) //currently offline
   - Locallly: Clone git repo and run the following command in the project terminal:
   1. `npm install`
   2. `npm update`
